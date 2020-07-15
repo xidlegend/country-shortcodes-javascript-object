@@ -1,7 +1,4 @@
-# country-shortcodes-javascript-object
 Read the title
-
-Javascript object of all the countries with their codes
 
 
 {
